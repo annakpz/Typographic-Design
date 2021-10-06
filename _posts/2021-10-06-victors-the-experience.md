@@ -6,4 +6,4 @@ image: ../uploads/victors-logo.jpeg
 title_color: "#ffffff"
 comments: false
 ---
-This modern American styler restaurant embodies the most romantic, upscale type of dining.
+This modern American style restaurant embodies the most romantic, upscale type of dining.
