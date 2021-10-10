@@ -8,7 +8,7 @@ layout: page
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 Typography is key in the restaurant business.
 
