@@ -1,20 +1,19 @@
 ---
-layout: page
-title: About
+header_feature_image: /uploads/log.jpg
+title: About this page
+subtitle: What is the message?
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+layout: page
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
 show: false
 ---
+Typography is key in the restaurant business.
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+BUT, do we ever really stop to think about what it actually means to the development of a 'fancy' restaurant and its company specifically? Do we ever stop to analyse the type in a menu or in the logo of a restaurant when picking out somewhere to eat?
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+The answer is no. We simply see something as elegant and sophisticated as a fine-dining menu and trust-fall into our waiter's arms. Because subconsciously, although we may not realise it in the moment, a mastered design and clean typeface is more than enough to build the level of trust necessary to entice a guest.
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+This page will cover how this has come to be and all the typographic methods used by upscale restaurant brands to achieve success as a company.
