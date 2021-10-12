@@ -5,6 +5,8 @@ date: 2021-10-06T13:25:59.822Z
 image: ../uploads/untitled-design-67.jpeg
 title_color: "#ffffff"
 comments: false
+tags:
+  - Fonts
 ---
 This modern American style restaurant embodies the most upscale, romantic type of dining. With multiple branches across the UK, Victor’s is distinguished for its picturesque interior and wide range menu options. 
 
@@ -34,4 +36,6 @@ With one look at this menu, it is obvious that what you get will be of the fines
 
 The font here used is script, which has been around since the 17/18th century, mimicking the quill writing used back then. It has a rather high contrast stroke, and its slanted demeanour makes it so that it is best read at large. So, the way in which Victor’s have made use of it is actually in the best way possible. Simply for subheadings, hinting at elegance without overpowering the entire menu. It forms a trust with the guest, cursive = friendly. At Victor’s you will be provided with an honourable experience.
 
-Which yes, is most definitely the case. No, you will not order a steak and chips at and receive the tiniest slice of meat topped with a chip for décor as you may expect in such similar ‘snobbish’ places. At Victor’s your food will be as pleasant as the service.
+Which yes, is most definitely the case. No, you will not order a steak and chips and receive the tiniest slice of meat topped with a chip for décor as you may expect in such similar ‘snobbish’ places. 
+
+At Victor’s your food will be as pleasant as the service.
