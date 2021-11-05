@@ -12,5 +12,5 @@ gridlayout: true
 fixednavbar: false
 upzoom: true
 items:
-  - name: Anna Kapanadze
+  - name: About Me
     siteurl: /aboutme/
