@@ -1,6 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About this page
+image: ../uploads/photo-1510812431401-41d2bd2722f3.webp
 subtitle: What we will explore...
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
