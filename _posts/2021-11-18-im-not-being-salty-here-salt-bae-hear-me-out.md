@@ -2,6 +2,7 @@
 layout: post
 title: I'm not being salty here Salt Bae - Hear me out
 date: 2021-11-18T16:55:56.441Z
+image: ../uploads/salt-bae.jpeg
 title_color: "#ffffff"
 comments: false
 ---
