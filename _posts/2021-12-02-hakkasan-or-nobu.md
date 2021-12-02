@@ -2,7 +2,7 @@
 layout: post
 title: Hakkasan or Nobu?
 date: 2021-12-02T17:28:12.536Z
-image: ../uploads/hakkasan-hanway-place.jpeg
+image: ../uploads/room.jpeg
 title_color: "#ffffff"
 comments: false
 ---
