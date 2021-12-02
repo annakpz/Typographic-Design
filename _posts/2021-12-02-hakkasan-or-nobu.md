@@ -2,7 +2,7 @@
 layout: post
 title: Hakkasan or Nobu?
 date: 2021-12-02T17:28:12.536Z
-image: ../uploads/room.jpeg
+image: ../uploads/nobu-dubai.jpeg
 title_color: "#ffffff"
 comments: false
 ---
