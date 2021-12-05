@@ -6,9 +6,7 @@ image: ../uploads/sticksnsushi-soho-opening.jpeg
 title_color: "#ffffff"
 comments: false
 ---
-Irrashaimase!
-
-If you’ve ever so much as step foot in sticks n sushi you are familiar with this greeting which means ‘welcome to the restaurant!’.
+Irrashaimase! If you’ve ever so much as step foot in sticks n sushi you are familiar with this greeting which means ‘welcome to the restaurant!’.
 
 Sticks n sushi stands as one of the most inviting and hospitable places to dine. A restaurant that takes pride in being a place where they ‘serve not just the great food experience – but the full experience’.
 
